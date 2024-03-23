@@ -28,12 +28,24 @@ Learning about Development Containers
 
   - [[YouTube] Customize Dev Containers in VS Code with Dockerfiles and Docker Compose | Visual Studio Code](https://www.youtube.com/watch?v=p9L7YFqHGk4) (2024/01/31)
 
+- [[YouTube] Working with Dev Containers by Chris Ayers | Devoxx](https://www.youtube.com/watch?v=HV7LJ_LUZ5A) (2023/05/16)
+
 - [[YouTube] If you're not developing with this, you're wasting your time | Articulated Robotics](https://www.youtube.com/watch?v=dihfA7Ol6Mw) (2024/01/05)
 
-- [[YouTube] Working with Dev Containers by Chris Ayers | Devoxx](https://www.youtube.com/watch?v=HV7LJ_LUZ5A) (2023/05/16)
+- [[YouTube] My Favorite Way To Handle Dev Environments - VS Code Devcontainers | DanCanCode](https://www.youtube.com/watch?v=SDa3v4Quj7Y) (2023/01/12)
+
+- [[YouTube] How To Set Up Local DevOps Environment With Docker using Dev Containers | Chandra Shettigar](https://www.youtube.com/watch?v=XTfIVffnapo) (2023/11/15)
+
+  - [DevOps Local Setup: Docker & Dev-Containers in VSCode | Devteds](https://www.devteds.com/devops-local-setup-with-docker-and-devcontainers-vscode/)
+
+  - [[GitHub] devteds/devops-local-setup-docker-devcontainer-vscode](https://github.com/devteds/devops-local-setup-docker-devcontainer-vscode)
 
 ## Visual Studio Code Extensions
 
 - [Dev Containers extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) - Open any folder or repository inside a Docker container and take advantage of Visual Studio Code's full feature set.
 
 - [Remote Development extension pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack) - An extension pack that lets you open any folder in a container, on a remote machine, or in WSL and take advantage of VS Code's full feature set.
+
+## Projects that uses Development Containers
+
+- [[GitHub] home-assistant/core](https://github.com/home-assistant/core) - Open source home automation that puts local control and privacy first.
