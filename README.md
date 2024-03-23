@@ -58,9 +58,17 @@ Learning about Development Containers
 
 - [Supporting tools and services | Development Containers](https://containers.dev/supporting)
 
+- [[GitHub] esensar/nvim-dev-container](https://github.com/esensar/nvim-dev-container)
+
+### CLI
+
 - [[GitHub] devcontainers/cli](https://github.com/devcontainers/cli) - A reference implementation for the specification that can create and configure a dev container from a `devcontainer.json`.
 
-- [[GitHub] esensar/nvim-dev-container](https://github.com/esensar/nvim-dev-container)
+## DevPod
+
+- [DevPod](https://devpod.sh/) - Open Source Dev-Environments-As-Code
+
+- [[GitHub] loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 
 ### Visual Studio Code Extensions
 
