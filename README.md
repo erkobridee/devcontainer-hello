@@ -26,7 +26,9 @@ Learning about Development Containers
 
     - [Dev Containers tutorial | Visual Studio Code Docs](https://code.visualstudio.com/docs/devcontainers/tutorial)
 
-  - [[YouTube] Customize Dev Containers in VS Code with Dockerfiles and Docker Compose | Visual Studio Code](https://www.youtube.com/watch?v=p9L7YFqHGk4) (2024/01/31)
+  - [[YouTube] Different Ways to Run Dev Containers: VS Code vs CLI | Visual Studio Code](https://www.youtube.com/watch?v=Fc6TAahZ1Pk) (2023/10/04)
+
+  - [[YouTube] Dev Container Features & Lifecycle Hooks | Visual Studio Code](https://www.youtube.com/watch?v=iCopdmuabBM) (2024/02/28)
 
 - [[YouTube] Working with Dev Containers by Chris Ayers | Devoxx](https://www.youtube.com/watch?v=HV7LJ_LUZ5A) (2023/05/16)
 
@@ -40,12 +42,34 @@ Learning about Development Containers
 
   - [[GitHub] devteds/devops-local-setup-docker-devcontainer-vscode](https://github.com/devteds/devops-local-setup-docker-devcontainer-vscode)
 
-## Visual Studio Code Extensions
+### Using Docker Compose
+
+- [[YouTube] Customize Dev Containers in VS Code with Dockerfiles and Docker Compose | Visual Studio Code](https://www.youtube.com/watch?v=p9L7YFqHGk4) (2024/01/31)
+
+- [[YouTube] Working with Multiple Dev Containers in VS Code | Visual Studio Code](https://www.youtube.com/watch?v=bVmczgfeR5Y) (2023/11/30)
+
+  - [[GitHub] madebygps/multiple-dev-container-vscode](https://github.com/madebygps/multiple-dev-container-vscode) - An example repo on how to use multiple devcontainer.json files with VS Code.
+
+## Projects that uses Development Containers
+
+- [[GitHub] home-assistant/core](https://github.com/home-assistant/core) - Open source home automation that puts local control and privacy first.
+
+## Tools
+
+- [Supporting tools and services | Development Containers](https://containers.dev/supporting)
+
+- [[GitHub] devcontainers/cli](https://github.com/devcontainers/cli) - A reference implementation for the specification that can create and configure a dev container from a `devcontainer.json`.
+
+- [[GitHub] esensar/nvim-dev-container](https://github.com/esensar/nvim-dev-container)
+
+### Visual Studio Code Extensions
 
 - [Dev Containers extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) - Open any folder or repository inside a Docker container and take advantage of Visual Studio Code's full feature set.
 
 - [Remote Development extension pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack) - An extension pack that lets you open any folder in a container, on a remote machine, or in WSL and take advantage of VS Code's full feature set.
 
-## Projects that uses Development Containers
+### IntelliJ IDEA
 
-- [[GitHub] home-assistant/core](https://github.com/home-assistant/core) - Open source home automation that puts local control and privacy first.
+- [IntelliJ IDEA 2023.2 EAP 6: AI Assistant, Dev Containers Support, and More | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2023/06/intellij-idea-2023-2-eap-6/#support-for-dev-containers)
+
+- [Dev Containers | WebStorm Documentation](https://www.jetbrains.com/help/webstorm/connect-to-devcontainer.html)
