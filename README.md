@@ -49,5 +49,3 @@ Learning about Development Containers
 ## Projects that uses Development Containers
 
 - [[GitHub] home-assistant/core](https://github.com/home-assistant/core) - Open source home automation that puts local control and privacy first.
-
-<!-- test -->
