@@ -42,6 +42,10 @@ Learning about Development Containers
 
   - [[GitHub] devteds/devops-local-setup-docker-devcontainer-vscode](https://github.com/devteds/devops-local-setup-docker-devcontainer-vscode)
 
+- [[YouTube] How to build your first Devcontainer | GitHub](https://www.youtube.com/watch?v=C_5tDWsWSj0) (2024/03/19)
+
+  - [[GitHub] diagrid-labs/dapr-workflow-demos](https://github.com/diagrid-labs/dapr-workflow-demos)
+
 ### Using Docker Compose
 
 - [[YouTube] Customize Dev Containers in VS Code with Dockerfiles and Docker Compose | Visual Studio Code](https://www.youtube.com/watch?v=p9L7YFqHGk4) (2024/01/31)
@@ -69,6 +73,20 @@ Learning about Development Containers
 - [DevPod](https://devpod.sh/) - Open Source Dev-Environments-As-Code
 
 - [[GitHub] loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+
+- [[YouTube] Introducing DevPod - Codespaces but Open Source | Loft Labs](https://www.youtube.com/watch?v=87oHtFO5lkc) (2023/05/16)
+
+  - [Introducing DevPod - Codespaces but Open Source | Loft Blog](https://loft.sh/blog/introducing-devpod-codespaces-but-open-source/) - DevPod does not host or manage the dev environments. Instead, DevPod introduces a way to define a dev environment which can then be run in any cloud infrastructure or even on a localhost machine using Docker or Kubernetes.
+
+- [[YouTube] Running Dev Containers with DevPod | Containers from the Couch](https://www.youtube.com/watch?v=pV2ymHluPtE) (2023/06/27)
+
+- [[YouTube] Open Source Dev Containers with DevPod | Cloud Native Rejekts](https://www.youtube.com/watch?v=jSVWiecTeo0) (2023/12/07)
+
+- [[YouTube] Open Source Dev Containers for macOS with Colima and DevPod | Loft Labs](https://www.youtube.com/watch?v=7oxLnYT6p_w) (2023/11/23)
+
+  - [Open Source Dev Containers for macOS with Colima and DevPod | Loft Blog](https://loft.sh/blog/dev-containers-with-colima-and-devpod/)
+
+  - [[GitHub] abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 
 ### Visual Studio Code Extensions
 
