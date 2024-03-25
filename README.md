@@ -99,3 +99,7 @@ Learning about Development Containers
 - [IntelliJ IDEA 2023.2 EAP 6: AI Assistant, Dev Containers Support, and More | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2023/06/intellij-idea-2023-2-eap-6/#support-for-dev-containers)
 
 - [Dev Containers | WebStorm Documentation](https://www.jetbrains.com/help/webstorm/connect-to-devcontainer.html)
+
+### CodeSandbox
+
+- [Dev Containers | CodeSandbox Docs](https://codesandbox.io/docs/learn/environment/devcontainers)
