@@ -54,6 +54,45 @@ Learning about Development Containers
 
   - [[GitHub] madebygps/multiple-dev-container-vscode](https://github.com/madebygps/multiple-dev-container-vscode) - An example repo on how to use multiple devcontainer.json files with VS Code.
 
+## Tips
+
+- [Dev Containers Tips and Tricks | Visual Studio Code](https://code.visualstudio.com/docs/devcontainers/tips-and-tricks)
+
+- [Sharing Git credentials with your container | Visual Studio Code](https://code.visualstudio.com/remote/advancedcontainers/sharing-git-credentials)
+
+### MacOS - passing the ssh credentions to inside of the devcontainer
+
+> If you get and issue while trying to commit your changes from inside of the devcontainer, the solution that I took on my case
+
+1. Make sure to have your ssh key for the git host mapped like the following example
+
+
+```bash
+# ~/.ssh/config
+
+Host *
+  ForwardAgent yes
+
+Host github.com
+  HostName github.com
+  User git
+  IdentityFile ~/.ssh/{private_ssh_key}
+  AddKeysToAgent yes
+```
+
+2. On your `devconfig.json` file, add the following mount configuration
+
+```json
+...
+
+  "mounts": [
+    "type=bind,source=${localEnv:HOME}/.ssh,target=/home/vscode/.ssh,readonly"
+  ]
+
+...
+```
+
+
 ## Projects that uses Development Containers
 
 - [[GitHub] home-assistant/core](https://github.com/home-assistant/core) - Open source home automation that puts local control and privacy first.
@@ -91,6 +130,8 @@ Learning about Development Containers
 ### Visual Studio Code Extensions
 
 - [Dev Containers extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) - Open any folder or repository inside a Docker container and take advantage of Visual Studio Code's full feature set.
+
+  - [Customizing the VS Code Extensions](https://containers.dev/supporting#visual-studio-code)
 
 - [Remote Development extension pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack) - An extension pack that lets you open any folder in a container, on a remote machine, or in WSL and take advantage of VS Code's full feature set.
 
