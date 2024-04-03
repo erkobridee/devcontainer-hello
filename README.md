@@ -12,6 +12,8 @@ Learning about Development Containers
 
   - [[GitHub] devcontainers/templates](https://github.com/devcontainers/templates) - Repository for Dev Container Templates that are managed by Dev Container spec maintainers.
 
+  - [[GitHub] devcontainers/images](https://github.com/devcontainers/images) - Repository for pre-built dev container images published under mcr.microsoft.com/devcontainers.
+
 ## Learning
 
 - [Use a Docker container as a development environment with Visual Studio Code - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/use-docker-container-dev-env-vs-code/)
