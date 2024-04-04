@@ -48,7 +48,21 @@ Learning about Development Containers
 
   - [[GitHub] diagrid-labs/dapr-workflow-demos](https://github.com/diagrid-labs/dapr-workflow-demos)
 
-### Using Docker Compose
+
+### Advanced container configuration
+
+- [Advanced container configuration | Visual Studio Code](https://code.visualstudio.com/remote/advancedcontainers/overview)
+
+  - [Environment variables](https://code.visualstudio.com/remote/advancedcontainers/environment-variables)
+
+  - [Change the default source code mount](https://code.visualstudio.com/remote/advancedcontainers/change-default-source-mount)
+
+  - [Connect to multiple containers](https://code.visualstudio.com/remote/advancedcontainers/connect-multiple-containers)
+
+  - [Configure separate containers](https://code.visualstudio.com/remote/advancedcontainers/configure-separate-containers)
+
+
+#### Using Docker Compose
 
 - [[YouTube] Customize Dev Containers in VS Code with Dockerfiles and Docker Compose | Visual Studio Code](https://www.youtube.com/watch?v=p9L7YFqHGk4) (2024/01/31)
 
