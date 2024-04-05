@@ -48,6 +48,10 @@ Learning about Development Containers
 
   - [[GitHub] diagrid-labs/dapr-workflow-demos](https://github.com/diagrid-labs/dapr-workflow-demos)
 
+- [Using Devcontainers for Local Development | xMatters](https://www.xmatters.com/blog/an-introduction-to-using-devcontainers-for-local-development) (2021/05/31)
+
+- [Getting Started with Dev Containers | JosephGuadagno.net](https://www.josephguadagno.net/2022/12/10/getting-started-with-developer-containers) (2022/12/10)
+
 
 ### Advanced container configuration
 
